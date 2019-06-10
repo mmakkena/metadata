@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>HR Object</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>HR Object</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- HR Object --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- HR Object --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Custom Date Field --></label>
+        <name>Custom_Date_Field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text10 --></label>
+        <name>Long_Text10__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text11 --></label>
+        <name>Long_Text11__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text12 --></label>
+        <name>Long_Text12__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text13 --></label>
+        <name>Long_Text13__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text1 --></label>
+        <name>Long_Text1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text2 --></label>
+        <name>Long_Text2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text3 --></label>
+        <name>Long_Text3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text4 --></label>
+        <name>Long_Text4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text5 --></label>
+        <name>Long_Text5__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text6 --></label>
+        <name>Long_Text6__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text7 --></label>
+        <name>Long_Text7__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text8 --></label>
+        <name>Long_Text8__c</name>
+    </fields>
+    <fields>
+        <label><!-- Long Text9 --></label>
+        <name>Long_Text9__c</name>
+    </fields>
+    <fields>
+        <label><!-- number1 --></label>
+        <name>number1__c</name>
+    </fields>
+    <fields>
+        <label><!-- number2 --></label>
+        <name>number2__c</name>
+    </fields>
+    <fields>
+        <label><!-- number3 --></label>
+        <name>number3__c</name>
+    </fields>
+    <fields>
+        <label><!-- number4 --></label>
+        <name>number4__c</name>
+    </fields>
+    <fields>
+        <label><!-- number5 --></label>
+        <name>number5__c</name>
+    </fields>
+    <fields>
+        <label><!-- phone1 --></label>
+        <name>phone1__c</name>
+    </fields>
+    <fields>
+        <label><!-- phone2 --></label>
+        <name>phone2__c</name>
+    </fields>
+    <fields>
+        <label><!-- phone3 --></label>
+        <name>phone3__c</name>
+    </fields>
+    <fields>
+        <label><!-- picklist1 --></label>
+        <name>picklist1__c</name>
+        <picklistValues>
+            <masterLabel>no</masterLabel>
+            <translation><!-- no --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>yes</masterLabel>
+            <translation><!-- yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- picklist2 --></label>
+        <name>picklist2__c</name>
+        <picklistValues>
+            <masterLabel>no</masterLabel>
+            <translation><!-- no --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>yes</masterLabel>
+            <translation><!-- yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- picklist3 --></label>
+        <name>picklist3__c</name>
+        <picklistValues>
+            <masterLabel>no</masterLabel>
+            <translation><!-- no --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>yes</masterLabel>
+            <translation><!-- yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- text1 --></label>
+        <name>text1__c</name>
+    </fields>
+    <fields>
+        <label><!-- text2 --></label>
+        <name>text2__c</name>
+    </fields>
+    <layouts>
+        <layout>HR Object Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
