@@ -1,0 +1,6 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+	<aura:attribute name="width" type="String" required="true" default="100%"/>
+    <aura:attribute name="height" type="String" required="true" default="500px"/>
+    
+    <iframe src="https://neo4j-visualizations.herokuapp.com/neo4j/marker/?cyperurl=https://db-tj6qfohhtfpeadgwbpoe.graphenedb.com:24780&amp;cyperuid=app80084202-34118051911550367&amp;cyperpwd=b.YJHaFM0ngCby.q0sxacLL3W6kWw7n&amp;sfdcid=0011I000007hZdYQAU&amp;sfdcorgid=00D1I000002KcttUAC" width="{!v.width}" height="{!v.height}" frameborder="0" />
+</aura:component>
