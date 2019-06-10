@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Onboarding Case</layout>
+        <sections>
+            <label><!-- Case Details --></label>
+            <section>Case Details</section>
+        </sections>
+        <sections>
+            <label><!-- Customer Updates --></label>
+            <section>Customer Updates</section>
+        </sections>
+        <sections>
+            <label><!-- Implementation --></label>
+            <section>Implementation</section>
+        </sections>
+        <sections>
+            <label><!-- Onboarding --></label>
+            <section>Onboarding</section>
+        </sections>
+        <sections>
+            <label><!-- Support Syndication --></label>
+            <section>Support Syndication</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Support Ticket Case</layout>
+        <sections>
+            <label><!-- Customer Updates --></label>
+            <section>Customer Updates</section>
+        </sections>
+        <sections>
+            <label><!-- Details --></label>
+            <section>Details</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- NewChildCase --></label>
+        <name>NewChildCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+</CustomObjectTranslation>
