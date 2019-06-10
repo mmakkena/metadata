@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>Support@Grax.io</contactEmail>
+    <description>GRAX Streaming API</description>
+    <infoUrl>https://www.grax.io/</infoUrl>
+    <label>GRAX Streaming API</label>
+    <logoUrl>https://static.wixstatic.com/media/fa96ca_4cb02045be8445468545da7de475da38~mv2.png/v1/fill/w_334,h_128,al_c,usm_0.66_1.00_0.01/fa96ca_4cb02045be8445468545da7de475da38~mv2.png</logoUrl>
+    <oauthConfig>
+        <callbackUrl>http://localhost:3000/oauth/_callback</callbackUrl>
+        <consumerKey>3MVG9PE4xB9wtoY9IbhNtYSuAVO5vqgiVAqpCM3P8MHDKHqyg1b40E9P09JUd9S4hP8SXcUT2pngMfVEwD6qD</consumerKey>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+    </oauthConfig>
+</ConnectedApp>
