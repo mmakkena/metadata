@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>Support@Grax.io</contactEmail>
+    <iconUrl>https://static.wixstatic.com/media/fa96ca_4cb02045be8445468545da7de475da38~mv2.png/v1/fill/w_334,h_128,al_c,usm_0.66_1.00_0.01/fa96ca_4cb02045be8445468545da7de475da38~mv2.png</iconUrl>
+    <label>GRAX Salesforce Deployment</label>
+    <logoUrl>https://hardingpoint--c.na40.content.force.com/servlet/servlet.ImageServer?id=015460000003SNW&amp;oid=00D3D00000014u0</logoUrl>
+    <oauthConfig>
+        <callbackUrl>https://deploytosalesforce.herokuapp.com/_auth</callbackUrl>
+        <consumerKey>3MVG9PE4xB9wtoY9IbhNtYSuAVO5vqgiVAqpCzmXtw04JSB2Qn69cwNe0aq05lJK7YCvGudN49tUY85_llXpV</consumerKey>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>Chatter</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>OpenID</scopes>
+        <scopes>CustomPermissions</scopes>
+        <scopes>Wave</scopes>
+        <scopes>Eclair</scopes>
+    </oauthConfig>
+</ConnectedApp>
