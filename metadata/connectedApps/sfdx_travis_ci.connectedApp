@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>Support@Grax.io</contactEmail>
+    <label>sfdx travis ci</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDnDCCAoQCCQCloMuAi1fX+jANBgkqhkiG9w0BAQsFADCBjzELMAkGA1UEBhMCVVMxFjAUBgNVBAgMDU1hc3NhY2h1c2V0dHMxDzANBgNVBAcMBkJvc3RvbjEWMBQGA1UECgwNSGFyZGluZyBQb2ludDENMAsGA1UECwwER1JBWDEQMA4GA1UEAwwHZ3JheC5pbzEeMBwGCSqGSIb3DQEJARYPU3VwcG9ydEBHcmF4LmlvMB4XDTE4MDUyOTExNDAwNFoXDTE5MDUyOTExNDAwNFowgY8xCzAJBgNVBAYTAlVTMRYwFAYDVQQIDA1NYXNzYWNodXNldHRzMQ8wDQYDVQQHDAZCb3N0b24xFjAUBgNVBAoMDUhhcmRpbmcgUG9pbnQxDTALBgNVBAsMBEdSQVgxEDAOBgNVBAMMB2dyYXguaW8xHjAcBgkqhkiG9w0BCQEWD1N1cHBvcnRAR3JheC5pbzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALszn7/+bXdtTSF/bZRm6guyObvcbHR9SZQmIJmmV1mkoMvuV/nNzXECVLO2ZzgK/OeHjjAltu8M4I39JYXs8wqiOb/TjqFxYXLlhgI4mwq69v0JUdVq1C7DzCFlhdV5UJIwywFNQkxliiBCt6VjmqKFqbDnOqoaDP05k6dgA5oZ8K91X+XDXAvJgp/gt+P6RslsP2rVR59g+i7ZjWwfNREo4PtaNHtmsK/0kydL545vb+L9QISbcE88P0h4eCRmkMbcxUrUqZCM+6se0VYwJ+ubzVRyaeRcP0nLPBhCsULSeC1H+tdDQwieGpk+zokLzpy1RSOO0SMCZks7vypfM3kCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEADrBhP2eW750hTfsA54mPph/H6zXJc45wdFFmHp2qJvW31BtGNE2nXqvDytzFFasafC6bTHGY8k5MKqunq7eGBjasCh097CkxV3MW+3u5nOcj3COFYslJSgjVXjKl1lEYzBV24UQ5wqBM+nd86k/KRj49WjiRTmbvaGUgE3CxQUa/4FNMAQkZN+Fg8yuMdy56MTjA0lFhaJ0BGOVkQgI1xTwE18Okuzid20q0xCPJG8kLHfWZ1W7raei3anelB9MpH/9ORLzmFUU6ruHcbR2IuWK8OV8MFlv3cJDRf1YQ8quncMPIH6YjJX8+HgZYKabb0d/VhlpbNUfVpLHp7FNxiQ==</certificate>
+        <consumerKey>3MVG9PE4xB9wtoY9IbhNtYSuAVO5vqgiVAqpCcKyJvKklTqDog51pcxJVb0K3qTs4WomVdxr.khxbA.tgngbh</consumerKey>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
