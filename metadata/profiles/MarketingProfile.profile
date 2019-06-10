@@ -3,7 +3,7 @@
     <applicationVisibilities>
         <application>GRAX_Sales</application>
         <default>false</default>
-        <visible>false</visible>
+        <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>GRAX_Support</application>
