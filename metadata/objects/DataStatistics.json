@@ -603,6 +603,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AEJobTracker"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "AggregateResult"
         },
         {
@@ -723,6 +730,13 @@
           "label": null,
           "validFor": null,
           "value": "AndroidPushApplicationSetup"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AnimationRule"
         },
         {
           "active": true,
@@ -975,6 +989,13 @@
           "label": null,
           "validFor": null,
           "value": "ApiUsage"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AppAnalyticsQueryRequest"
         },
         {
           "active": true,
@@ -1268,6 +1289,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AsyncOperationEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AsyncOperationStatus"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "AsyncRequest"
         },
         {
@@ -1416,6 +1451,13 @@
           "label": null,
           "validFor": null,
           "value": "B2BCommercePackageMetrics"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "B2BCommercePkgOrdersUE"
         },
         {
           "active": true,
@@ -1591,6 +1633,20 @@
           "label": null,
           "validFor": null,
           "value": "Calendar"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Calendar2"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Calendar2Definition"
         },
         {
           "active": true,
@@ -2171,6 +2227,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ComponentInstancePropListItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ComponentObjectDependency"
         },
         {
@@ -2340,6 +2403,13 @@
           "label": null,
           "validFor": null,
           "value": "ContentDocumentSubscription"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ContentExternalStorage"
         },
         {
           "active": true,
@@ -3018,6 +3088,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "DashboardComponentSort"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "DashboardFilter"
         },
         {
@@ -3473,6 +3550,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "DoradoRequestEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "DrDbHammerRequest"
         },
         {
@@ -3537,13 +3621,6 @@
           "label": null,
           "validFor": null,
           "value": "EclairNgMapGeoJson"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "EinsteinAppAnalytics"
         },
         {
           "active": true,
@@ -3725,6 +3802,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "EmbeddedServiceCustomComponent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "EmbeddedServiceCustomLabel"
         },
         {
@@ -3782,6 +3866,13 @@
           "label": null,
           "validFor": null,
           "value": "EnhancedEmailTemplate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "EnhancedLetterhead"
         },
         {
           "active": true,
@@ -3942,6 +4033,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "EventDestination"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "EventLogFile"
         },
         {
@@ -4054,6 +4152,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ExecutionPlanTask"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Experiment"
         },
         {
@@ -4062,6 +4167,20 @@
           "label": null,
           "validFor": null,
           "value": "ExperimentRequest"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ExpressionFilter"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ExpressionFilterCriteria"
         },
         {
           "active": true,
@@ -4488,6 +4607,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FieldSecurityClassification"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "FieldSet"
         },
         {
@@ -4551,6 +4677,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FlexipageFieldInstance"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "FlexipagePageTypeMetrics"
         },
         {
@@ -4572,6 +4705,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FlowApexClassDescriptor"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "FlowApexClassPropertyDesc"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "FlowCategory"
         },
         {
@@ -4587,6 +4734,13 @@
           "label": null,
           "validFor": null,
           "value": "FlowDefinition"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "FlowDefinitionView"
         },
         {
           "active": true,
@@ -4649,6 +4803,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FlowVariableView"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "FlowVersionView"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Folder"
         },
         {
@@ -4657,27 +4825,6 @@
           "label": null,
           "validFor": null,
           "value": "FolderedContentDocument"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "FolderInterface"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "FolderItemInterface"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "FolderMemberInterface"
         },
         {
           "active": true,
@@ -4867,6 +5014,27 @@
           "label": null,
           "validFor": null,
           "value": "GatherStatsTaskInfo"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "GenericContentFolder"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "GenericContentFolderItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "GenericContentFolderMember"
         },
         {
           "active": true,
@@ -5510,6 +5678,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "InteractionVisibilityRule"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "InteractionWait"
         },
         {
@@ -5783,6 +5958,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "LightningSchedulerUsageMetrics"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "LightningServiceMetrics"
         },
         {
@@ -6021,6 +6203,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "LogoutEventStream"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "LogSearch"
         },
         {
@@ -6119,6 +6308,41 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ManagedContentSpace"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ManagedContentSpaceLink"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ManagedContentSpaceMember"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ManagedContentSpacePermission"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ManagedContentSpaceRole"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ManagedTopicLocation"
         },
         {
@@ -6127,6 +6351,27 @@
           "label": null,
           "validFor": null,
           "value": "MassMail"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "MassOperationsJobInfo"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "MassOperationsNotification"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "MassOperationsSubsetResults"
         },
         {
           "active": true,
@@ -6288,6 +6533,13 @@
           "label": null,
           "validFor": null,
           "value": "MetricsDataFile"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "MetricsInMQMetrics"
         },
         {
           "active": true,
@@ -6630,6 +6882,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "OauthCustomScope"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "OauthCustomScopeApp"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "OauthToken"
         },
         {
@@ -6813,6 +7079,13 @@
           "label": null,
           "validFor": null,
           "value": "OrderItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "OrderItemType"
         },
         {
           "active": true,
@@ -7204,6 +7477,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "PermissionDependency"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "PermissionSet"
         },
         {
@@ -7240,6 +7520,13 @@
           "label": null,
           "validFor": null,
           "value": "PermissionSetMetricsByOrg"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PermissionSetPortalDelegate"
         },
         {
           "active": true,
@@ -7540,6 +7827,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "PrivacyConsentRow"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ProcessActionItem"
         },
         {
@@ -7786,6 +8080,27 @@
           "label": null,
           "validFor": null,
           "value": "Project"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Prompt"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PromptAction"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PromptVersion"
         },
         {
           "active": true,
@@ -8261,7 +8576,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "RecordActionDeploymentContext"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "RecordActionHistory"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "RecordActionRecommendation"
         },
         {
           "active": true,
@@ -8493,6 +8822,13 @@
           "label": null,
           "validFor": null,
           "value": "ReportParam"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ReportResultBlob"
         },
         {
           "active": true,
@@ -9578,6 +9914,13 @@
           "label": null,
           "validFor": null,
           "value": "SupportOrgWideMetrics"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "SurveyResponseUsageMetrics"
         },
         {
           "active": true,
