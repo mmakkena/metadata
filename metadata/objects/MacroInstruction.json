@@ -633,6 +633,34 @@
           "label": "close",
           "validFor": null,
           "value": "Close"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "if",
+          "validFor": null,
+          "value": "If"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "elseif",
+          "validFor": null,
+          "value": "ElseIf"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "else",
+          "validFor": null,
+          "value": "Else"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "endif",
+          "validFor": null,
+          "value": "EndIf"
         }
       ],
       "polymorphicForeignKey": false,
