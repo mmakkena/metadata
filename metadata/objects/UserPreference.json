@@ -275,6 +275,34 @@
           "label": "Lightning Flow Builder preferences",
           "validFor": null,
           "value": "109"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Format With Tabs",
+          "validFor": null,
+          "value": "111"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Format Tab Width",
+          "validFor": null,
+          "value": "112"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Format Print Width",
+          "validFor": null,
+          "value": "113"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Record Page Activities Display",
+          "validFor": null,
+          "value": "114"
         }
       ],
       "polymorphicForeignKey": false,
