@@ -1279,6 +1279,27 @@
           "label": "Password Authentication",
           "validFor": null,
           "value": "Password"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "AWS Signature Version 4",
+          "validFor": null,
+          "value": "AwsSv4"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "JWT",
+          "validFor": null,
+          "value": "Jwt"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "JWT Token Exchange",
+          "validFor": null,
+          "value": "JwtExchange"
         }
       ],
       "polymorphicForeignKey": false,
