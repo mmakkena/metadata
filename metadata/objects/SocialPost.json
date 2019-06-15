@@ -3989,6 +3989,27 @@
           "label": "Link",
           "validFor": null,
           "value": "LINK"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Audio",
+          "validFor": null,
+          "value": "AUDIO"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Text",
+          "validFor": null,
+          "value": "TEXT"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Application",
+          "validFor": null,
+          "value": "APPLICATION"
         }
       ],
       "polymorphicForeignKey": false,
