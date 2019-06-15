@@ -41,7 +41,7 @@
       "htmlFormatted": false,
       "idLookup": true,
       "inlineHelpText": null,
-      "label": "Snap-ins ID",
+      "label": "Embedded Service ID",
       "length": 18,
       "mask": null,
       "maskType": null,
@@ -100,7 +100,7 @@
       "htmlFormatted": false,
       "idLookup": false,
       "inlineHelpText": null,
-      "label": "Snap-ins Durable ID",
+      "label": "Embedded Service Durable ID",
       "length": 255,
       "mask": null,
       "maskType": null,
@@ -2042,8 +2042,8 @@
   "hasSubtypes": false,
   "isSubtype": false,
   "keyPrefix": "0Lq",
-  "label": "Snap-ins",
-  "labelPlural": "Snap-ins",
+  "label": "Embedded Service",
+  "labelPlural": "Embedded Services",
   "layoutable": false,
   "listviewable": null,
   "lookupLayoutable": null,
@@ -2060,7 +2060,7 @@
   "searchable": false,
   "supportedScopes": [
     {
-      "label": "All snap-ins",
+      "label": "All embedded services",
       "name": "everything"
     }
   ],
