@@ -240,6 +240,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AccountChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AccountContactRoleChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ActivityEngagementRollup"
         },
         {
@@ -247,7 +261,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AppAnalyticsQueryRequest"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Asset"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AssetChangeEvent"
         },
         {
           "active": true,
@@ -275,6 +303,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AsyncOperationEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AsyncOperationStatus"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Attachment"
         },
         {
@@ -296,7 +338,28 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "CampaignChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "CampaignMember"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CampaignMemberChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CampaignMemberStatusChangeEvent"
         },
         {
           "active": true,
@@ -310,7 +373,70 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "CaseChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "CaseComment"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CHANNEL_ORDERS__Customer__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CHANNEL_ORDERS__Customer_Order_Product_History__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CHANNEL_ORDERS__Partner_Contract_Terms__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CHANNEL_ORDERS__Partner_Pricebook_Entry__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CHANNEL_ORDERS__Partner_Product_Catalog__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CHANNEL_ORDERS__Service_Order__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CHANNEL_ORDERS__Service_Order_Detail__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CHANNEL_ORDERS__Service_Order_Log__ChangeEvent"
         },
         {
           "active": true,
@@ -359,6 +485,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ContactChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ContactRequest"
         },
         {
@@ -387,6 +520,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ContentExternalStorage"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ContentVersion"
         },
         {
@@ -395,6 +535,55 @@
           "label": null,
           "validFor": null,
           "value": "Contract"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ContractChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "dsfs__DocuSign_Envelope__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "dsfs__DocuSign_Envelope_Document__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "dsfs__DocuSign_Envelope_Recipient__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "dsfs__DocuSign_Recipient_Status__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "dsfs__DocuSign_Status__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "dsfs__DocuSignAccountConfiguration__ChangeEvent"
         },
         {
           "active": true,
@@ -443,6 +632,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "EventChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "EventRelationChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "FeedComment"
         },
         {
@@ -457,7 +660,70 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "grax__GRAX_Archive_Process__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "grax__GRAX_Data_Record__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "grax__GRAX_Data_Record_Id__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "grax__GRAX_Schedule_Process__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "grax__GRAXQuery__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "H2S__ApexLog__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "H2S__HarvestProject__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "H2S__HarvestTimeEntry__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "HammerResultStatus"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "HR_Object__ChangeEvent"
         },
         {
           "active": true,
@@ -492,6 +758,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "LeadChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ListEmailChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ListEmailSentResult"
         },
         {
@@ -499,7 +779,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "LogoutEventStream"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Macro"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ManagedContentSpaceMember"
         },
         {
           "active": true,
@@ -514,6 +808,20 @@
           "label": null,
           "validFor": null,
           "value": "Opportunity"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "OpportunityChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "OpportunityContactRoleChangeEvent"
         },
         {
           "active": true,
@@ -541,7 +849,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "OrderChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "OrderItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "OrderItemChangeEvent"
         },
         {
           "active": true,
@@ -597,6 +919,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Product2ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PromptAction"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "QuickText"
         },
         {
@@ -611,7 +947,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "QuoteChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "QuoteLineItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "QuoteLineItemChangeEvent"
         },
         {
           "active": true,
@@ -640,6 +990,27 @@
           "label": null,
           "validFor": null,
           "value": "RecordOrigin"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "sfLma__License__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "sfLma__Package__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "sfLma__Package_Version__ChangeEvent"
         },
         {
           "active": true,
@@ -688,6 +1059,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "TaskChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "TaskRelationChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Topic"
         },
         {
@@ -703,6 +1088,13 @@
           "label": null,
           "validFor": null,
           "value": "User"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "UserChangeEvent"
         },
         {
           "active": true,
