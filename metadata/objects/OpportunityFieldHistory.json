@@ -381,6 +381,13 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "Contact",
+          "validFor": null,
+          "value": "Contact"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "Contract",
           "validFor": null,
           "value": "Contract"
