@@ -194,6 +194,16 @@
     },
     {
       "cascadeDelete": true,
+      "childSObject": "RecordAction",
+      "deprecatedAndHidden": false,
+      "field": "RecordId",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": "RecordActions",
+      "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": true,
       "childSObject": "Task",
       "deprecatedAndHidden": false,
       "field": "WhatId",
