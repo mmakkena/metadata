@@ -245,6 +245,7 @@
         "CHANNEL_ORDERS__Service_Order__c",
         "Campaign",
         "Case",
+        "ContactRequest",
         "Contract",
         "H2S__HarvestProject__c",
         "H2S__HarvestTimeEntry__c",
