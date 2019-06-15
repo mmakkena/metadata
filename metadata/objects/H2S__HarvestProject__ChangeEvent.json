@@ -2776,7 +2776,7 @@
       "name": "everything"
     }
   ],
-  "triggerable": false,
+  "triggerable": true,
   "undeletable": false,
   "updateable": false,
   "urls": {
