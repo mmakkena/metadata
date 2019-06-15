@@ -253,6 +253,7 @@
         "CHANNEL_ORDERS__Service_Order__c",
         "Campaign",
         "Case",
+        "ContactRequest",
         "Contract",
         "H2S__ApexLog__c",
         "H2S__HarvestProject__c",
