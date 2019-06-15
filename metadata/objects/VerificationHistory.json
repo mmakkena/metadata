@@ -502,6 +502,13 @@
           "label": "Change your email address",
           "validFor": null,
           "value": "ChangeEmail"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Access the list view",
+          "validFor": null,
+          "value": "ListView"
         }
       ],
       "polymorphicForeignKey": false,
