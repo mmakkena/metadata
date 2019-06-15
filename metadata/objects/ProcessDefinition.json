@@ -513,6 +513,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "PromptAction"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Quote"
         },
         {
