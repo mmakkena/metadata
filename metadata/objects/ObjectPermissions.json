@@ -197,6 +197,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Accreditation"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ActionCadence"
         },
         {
@@ -267,14 +274,14 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "AiImageDetectedObject"
+          "value": "AiDataset"
         },
         {
           "active": true,
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "AiImageObject"
+          "value": "AiImageDetectedObject"
         },
         {
           "active": true,
@@ -288,7 +295,14 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "AppIntelQueryRequest"
+          "value": "AiVisionModel"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AppAnalyticsQueryRequest"
         },
         {
           "active": true,
@@ -296,6 +310,104 @@
           "label": null,
           "validFor": null,
           "value": "Asset"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Assortment"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AssortmentProduct"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationForm"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormConsent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormDataUse"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormText"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Award"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "BillingPeriodItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "BillingPeriodTaxItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "BillingSchedule"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "BoardCertification"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "BusinessLicense"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "BuyerAccount"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "BuyerGroupPricebook"
         },
         {
           "active": true,
@@ -393,6 +505,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "CareProgramEligibilityRule"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "CareProgramEnrollee"
         },
         {
@@ -400,7 +519,49 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "CareProgramEnrolleeProduct"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CareProgramEnrollmentCard"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CareProgramGoal"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CareProgramProduct"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CareProgramProvider"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "CareProgramTeamMember"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CareProviderFacilitySpecialty"
         },
         {
           "active": true,
@@ -421,7 +582,28 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "CareRequestExtension"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "CareRequestItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CareSpecialty"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CareTaxonomy"
         },
         {
           "active": true,
@@ -554,6 +736,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ClaimCase"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ClaimParticipant"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "CloudServiceProvider"
         },
         {
@@ -562,6 +758,27 @@
           "label": null,
           "validFor": null,
           "value": "CloudServiceProviderApi"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CommerceEntitlementBuyerGroup"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CommerceEntitlementPolicy"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "CommerceEntitlementProduct"
         },
         {
           "active": true,
@@ -659,14 +876,7 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "CustomerAssetAuto"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "CustomerAssetHome"
+          "value": "CustomerProperty"
         },
         {
           "active": true,
@@ -779,6 +989,13 @@
           "label": null,
           "validFor": null,
           "value": "EngagementProgramVersion"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "EnrollmentEligibilityCriteria"
         },
         {
           "active": true,
@@ -925,6 +1142,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FtestContactPointEmail"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "FtestContactPointPhone"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "FtestError"
         },
         {
@@ -975,6 +1206,20 @@
           "label": null,
           "validFor": null,
           "value": "FtestVirtualMain"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "FulfillmentOrder"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "FulfillmentOrderLineItem"
         },
         {
           "active": true,
@@ -1058,7 +1303,63 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "HealthcareFacilityNetwork"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "HealthcarePayerNetwork"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "HealthcarePractitionerFacility"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "HealthCareProcedure"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "HealthcareProvider"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "HealthcareProviderNpi"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "HealthcareProviderSpecialty"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "HealthcareProviderTaxonomy"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Household"
         },
         {
           "active": true,
@@ -1121,6 +1422,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "InsuranceClaimAsset"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "InsurancePolicy"
         },
         {
@@ -1135,21 +1443,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "InsurancePolicyBeneficiary"
+          "value": "InsurancePolicyCoverage"
         },
         {
           "active": true,
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "InsurancePolicyCoverageLimit"
+          "value": "InsurancePolicyMemberAsset"
         },
         {
           "active": true,
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "InsurancePolicyMember"
+          "value": "InsurancePolicyParticipant"
         },
         {
           "active": true,
@@ -1157,6 +1465,20 @@
           "label": null,
           "validFor": null,
           "value": "InsuranceProfile"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Invoice"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "InvoiceLine"
         },
         {
           "active": true,
@@ -1206,6 +1528,83 @@
           "label": null,
           "validFor": null,
           "value": "LiveChatVisitor"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicant"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicantAddress"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicantAsset"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicantDeclaration"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicantEmployment"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicantIncome"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicantLiability"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicationFinancial"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicationPayment"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicationProperty"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LoanApplicationTitleHolder"
         },
         {
           "active": true,
@@ -1338,13 +1737,6 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "OrderDeliveryGroupLine"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
           "value": "OrderDeliveryMethod"
         },
         {
@@ -1352,14 +1744,7 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "OrderItemSummary"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "OrderPriceAdjustDistrLine"
+          "value": "OrderPaymentSummary"
         },
         {
           "active": true,
@@ -1408,6 +1793,27 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "PartyRelatedParty"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PartyRelationshipType"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Payment"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "PaymentAuthorization"
         },
         {
@@ -1415,7 +1821,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "PaymentGateway"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "PaymentGroup"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PaymentLineInvoice"
         },
         {
           "active": true,
@@ -1471,6 +1891,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "PriceAdjustmentSchedule"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PriceAdjustmentTier"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Pricebook2"
         },
         {
@@ -1486,6 +1920,27 @@
           "label": null,
           "validFor": null,
           "value": "Product2"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ProductCatalog"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ProductCategory"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ProductCategoryProduct"
         },
         {
           "active": true,
@@ -1541,6 +1996,34 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Promotion"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PromotionChannel"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PromotionProduct"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "PromotionProductCategory"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "PurchaserPlan"
         },
         {
@@ -1583,7 +2066,28 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Refund"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "RegisteredMobileDevice"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ResidentialLoanApplication"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "RetailContentDocument"
         },
         {
           "active": true,
@@ -1668,6 +2172,13 @@
           "label": null,
           "validFor": null,
           "value": "SalesAgreement"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "SalesChannel"
         },
         {
           "active": true,
@@ -1779,6 +2290,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Shift"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Shipment"
         },
         {
@@ -1787,6 +2305,13 @@
           "label": null,
           "validFor": null,
           "value": "SignupRequest"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Snippet"
         },
         {
           "active": true,
@@ -1808,6 +2333,20 @@
           "label": null,
           "validFor": null,
           "value": "SOSSession"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "StoreAssortment"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "StoreProduct"
         },
         {
           "active": true,
@@ -1905,7 +2444,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "WebStore"
+          "value": "WebCart"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "WebStoreCatalog"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "WebStorePricebook"
         },
         {
           "active": true,
