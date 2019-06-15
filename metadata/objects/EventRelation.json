@@ -142,6 +142,7 @@
         "Campaign",
         "Case",
         "Contact",
+        "ContactRequest",
         "Contract",
         "H2S__ApexLog__c",
         "H2S__HarvestProject__c",
