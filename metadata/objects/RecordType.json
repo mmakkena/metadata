@@ -477,6 +477,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AppAnalyticsQueryRequest"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Asset"
         },
         {
@@ -492,6 +499,20 @@
           "label": null,
           "validFor": null,
           "value": "AssistantProgress"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Calendar2"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Calendar2Definition"
         },
         {
           "active": true,
@@ -709,6 +730,20 @@
           "label": null,
           "validFor": null,
           "value": "Event"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ExpressionFilter"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ExpressionFilterCriteria"
         },
         {
           "active": true,
@@ -939,6 +974,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "PromptAction"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "QuickText"
         },
         {
@@ -975,6 +1017,13 @@
           "label": null,
           "validFor": null,
           "value": "RecordOrigin"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ReportResultBlob"
         },
         {
           "active": true,
