@@ -91,6 +91,16 @@
       "junctionReferenceTo": [],
       "relationshipName": null,
       "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": true,
+      "childSObject": "RecordAction",
+      "deprecatedAndHidden": false,
+      "field": "RecordId",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": "RecordActions",
+      "restrictedDelete": false
     }
   ],
   "compactLayoutable": true,
