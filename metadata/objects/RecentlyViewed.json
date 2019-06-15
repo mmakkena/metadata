@@ -481,6 +481,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Event"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "grax__GRAX_Archive_Process__c"
         },
         {
@@ -629,6 +636,13 @@
           "label": null,
           "validFor": null,
           "value": "Quote"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "QuoteLineItem"
         },
         {
           "active": true,
