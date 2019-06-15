@@ -249,6 +249,7 @@
         "Campaign",
         "Case",
         "Contact",
+        "ContactRequest",
         "Contract",
         "H2S__ApexLog__c",
         "H2S__HarvestProject__c",
@@ -1069,7 +1070,7 @@
       "name": "everything"
     }
   ],
-  "triggerable": false,
+  "triggerable": true,
   "undeletable": false,
   "updateable": false,
   "urls": {
