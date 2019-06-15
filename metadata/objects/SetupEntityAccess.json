@@ -110,7 +110,7 @@
       "nillable": false,
       "permissionable": false,
       "picklistValues": [],
-      "polymorphicForeignKey": false,
+      "polymorphicForeignKey": true,
       "precision": 0,
       "queryByDistance": false,
       "referenceTargetField": null,
