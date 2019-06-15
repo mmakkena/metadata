@@ -388,6 +388,13 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "Case Merged",
+          "validFor": null,
+          "value": "caseMerged"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "Case Origin",
           "validFor": null,
           "value": "Origin"
