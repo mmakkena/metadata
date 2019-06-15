@@ -595,6 +595,7 @@
       "referenceTo": [
         "Account",
         "AccountContactRole",
+        "AccountPartner",
         "Announcement",
         "ApexTestQueueItem",
         "Approval",
@@ -682,6 +683,7 @@
         "Opportunity",
         "OpportunityContactRole",
         "OpportunityLineItem",
+        "OpportunityPartner",
         "OpportunityTeamMember",
         "Order",
         "OrderItem",
