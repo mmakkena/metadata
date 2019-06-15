@@ -121,16 +121,6 @@
       "restrictedDelete": false
     },
     {
-      "cascadeDelete": false,
-      "childSObject": "EmailMessage",
-      "deprecatedAndHidden": false,
-      "field": "RelatedToId",
-      "junctionIdListNames": [],
-      "junctionReferenceTo": [],
-      "relationshipName": "Emails",
-      "restrictedDelete": false
-    },
-    {
       "cascadeDelete": true,
       "childSObject": "EntitySubscription",
       "deprecatedAndHidden": false,
