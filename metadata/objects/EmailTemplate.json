@@ -1986,6 +1986,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AppAnalyticsQueryRequest"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Approval"
         },
         {
@@ -2120,6 +2127,13 @@
           "label": null,
           "validFor": null,
           "value": "BaseSessionInterface"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Calendar2"
         },
         {
           "active": true,
@@ -2400,6 +2414,13 @@
           "label": null,
           "validFor": null,
           "value": "ContentDocumentSubscription"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ContentExternalStorage"
         },
         {
           "active": true,
@@ -2700,6 +2721,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "EnhancedLetterhead"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "EntityBlacklist"
         },
         {
@@ -2813,6 +2841,20 @@
           "label": null,
           "validFor": null,
           "value": "ExchangeUserMapping"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ExpressionFilter"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ExpressionFilterCriteria"
         },
         {
           "active": true,
@@ -3022,27 +3064,6 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "FolderInterface"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "FolderItemInterface"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "FolderMemberInterface"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
           "value": "ForecastingAdjustment"
         },
         {
@@ -3107,6 +3128,27 @@
           "label": null,
           "validFor": null,
           "value": "FTestGenInterface"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "GenericContentFolder"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "GenericContentFolderItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "GenericContentFolderMember"
         },
         {
           "active": true,
@@ -3282,6 +3324,20 @@
           "label": null,
           "validFor": null,
           "value": "ManagedContentBlockVersion"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ManagedContentSpace"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ManagedContentSpaceMember"
         },
         {
           "active": true,
@@ -3659,6 +3715,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "PromptAction"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ProposedEventResponse"
         },
         {
@@ -3905,6 +3968,13 @@
           "label": null,
           "validFor": null,
           "value": "ReportParam"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ReportResultBlob"
         },
         {
           "active": true,
