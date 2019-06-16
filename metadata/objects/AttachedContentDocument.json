@@ -947,6 +947,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "contentHubItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Datajourney"
         },
         {
