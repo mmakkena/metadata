@@ -640,6 +640,7 @@
         "H2S__HarvestProject__c",
         "H2S__HarvestTimeEntry__c",
         "HR_Object__c",
+        "Individual",
         "Lead",
         "dsfs__DocuSignAccountConfiguration__c",
         "dsfs__DocuSign_Envelope_Document__c",
