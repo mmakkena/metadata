@@ -500,6 +500,13 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "Individual",
+          "validFor": null,
+          "value": "Individual"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "Individual Merged",
           "validFor": null,
           "value": "individualMerged"
