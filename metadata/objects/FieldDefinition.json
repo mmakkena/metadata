@@ -2545,7 +2545,29 @@
       "namePointing": false,
       "nillable": true,
       "permissionable": false,
-      "picklistValues": [],
+      "picklistValues": [
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Active",
+          "validFor": null,
+          "value": "Active"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "DeprecateCandidate",
+          "validFor": null,
+          "value": "DeprecateCandidate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Hidden",
+          "validFor": null,
+          "value": "Hidden"
+        }
+      ],
       "polymorphicForeignKey": false,
       "precision": 0,
       "queryByDistance": false,
@@ -2604,7 +2626,43 @@
       "namePointing": false,
       "nillable": true,
       "permissionable": false,
-      "picklistValues": [],
+      "picklistValues": [
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Public",
+          "validFor": null,
+          "value": "Public"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Internal",
+          "validFor": null,
+          "value": "Internal"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Confidential",
+          "validFor": null,
+          "value": "Confidential"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Restricted",
+          "validFor": null,
+          "value": "Restricted"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "MissionCritical",
+          "validFor": null,
+          "value": "MissionCritical"
+        }
+      ],
       "polymorphicForeignKey": false,
       "precision": 0,
       "queryByDistance": false,
