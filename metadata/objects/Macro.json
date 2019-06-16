@@ -1093,6 +1093,13 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "Individual",
+          "validFor": null,
+          "value": "Individual"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "Lead",
           "validFor": null,
           "value": "Lead"
