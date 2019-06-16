@@ -1846,6 +1846,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FirstName"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Fixed_Price"
         },
         {
@@ -1923,6 +1930,27 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Individual"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Individual"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "IndividualsAge"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Industry"
         },
         {
@@ -1994,6 +2022,13 @@
           "label": null,
           "validFor": null,
           "value": "LanguageCode"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LastName"
         },
         {
           "active": true,
@@ -2134,6 +2169,13 @@
           "label": null,
           "validFor": null,
           "value": "Module_Name"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Name"
         },
         {
           "active": true,
@@ -2981,6 +3023,13 @@
           "label": null,
           "validFor": null,
           "value": "Salesforce_Recipient_Type"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Salutation"
         },
         {
           "active": true,
