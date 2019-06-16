@@ -124,6 +124,16 @@
     },
     {
       "cascadeDelete": true,
+      "childSObject": "IndividualShare",
+      "deprecatedAndHidden": false,
+      "field": "UserOrGroupId",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": null,
+      "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": true,
       "childSObject": "LeadShare",
       "deprecatedAndHidden": false,
       "field": "UserOrGroupId",
