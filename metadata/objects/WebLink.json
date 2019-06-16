@@ -143,6 +143,34 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AuthorizationForm"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormConsent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormDataUse"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormText"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Campaign"
         },
         {
@@ -227,6 +255,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ContactPointTypeConsent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ContactRequest"
         },
         {
@@ -256,6 +291,20 @@
           "label": null,
           "validFor": null,
           "value": "DashboardComponent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "DataUseLegalBasis"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "DataUsePurpose"
         },
         {
           "active": true,
@@ -403,6 +452,13 @@
           "label": null,
           "validFor": null,
           "value": "Image"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Individual"
         },
         {
           "active": true,
