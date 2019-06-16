@@ -750,6 +750,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "C2CPermissionBinding"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Calendar"
         },
         {
@@ -1031,6 +1038,13 @@
           "label": null,
           "validFor": null,
           "value": "ContentFolderItem"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ContentHubItem"
         },
         {
           "active": true,
@@ -2032,6 +2046,13 @@
           "label": null,
           "validFor": null,
           "value": "InboundSocialPost"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Individual"
         },
         {
           "active": true,
