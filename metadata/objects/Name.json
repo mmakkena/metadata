@@ -691,6 +691,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Individual"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "InstalledMobileApp"
         },
         {
