@@ -505,6 +505,34 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AuthorizationForm"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormConsent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormDataUse"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormText"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Calendar2"
         },
         {
@@ -631,7 +659,21 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ContactPointTypeConsent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ContactRequest"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "ContentDocumentListViewMapping"
         },
         {
           "active": true,
@@ -660,6 +702,20 @@
           "label": null,
           "validFor": null,
           "value": "CustomSettingNameIndex"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "DataUseLegalBasis"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "DataUsePurpose"
         },
         {
           "active": true,
@@ -764,6 +820,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FlowExecutionEventMetric"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "FlowRecordRelation"
         },
         {
@@ -856,6 +919,13 @@
           "label": null,
           "validFor": null,
           "value": "InboundSocialPost"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Individual"
         },
         {
           "active": true,
