@@ -324,6 +324,34 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "AuthorizationForm"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormConsent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormDataUse"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "AuthorizationFormText"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "BatchApexErrorEvent"
         },
         {
@@ -492,6 +520,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ContactPointTypeConsent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ContactRequest"
         },
         {
@@ -520,6 +555,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ContentDocumentListViewMapping"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ContentExternalStorage"
         },
         {
@@ -542,6 +584,20 @@
           "label": null,
           "validFor": null,
           "value": "ContractChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "DataUseLegalBasis"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "DataUsePurpose"
         },
         {
           "active": true,
@@ -660,6 +716,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FlowExecutionEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "grax__GRAX_Archive_Process__ChangeEvent"
         },
         {
@@ -745,6 +808,13 @@
           "label": null,
           "validFor": null,
           "value": "Image"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Individual"
         },
         {
           "active": true,
