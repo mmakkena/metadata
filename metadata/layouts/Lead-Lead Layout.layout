@@ -33,6 +33,10 @@
                 <behavior>Edit</behavior>
                 <field>Org32_ID__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Grax_Restore__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
