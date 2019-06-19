@@ -535,6 +535,13 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "Grax_Restore",
+          "validFor": null,
+          "value": "Grax_Restore__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "Individual Merged",
           "validFor": null,
           "value": "individualMerged"
