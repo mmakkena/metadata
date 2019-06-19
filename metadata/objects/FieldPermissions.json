@@ -607,6 +607,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Account.Grax_Restore__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Account.Industry"
         },
         {
@@ -5627,6 +5634,13 @@
           "label": null,
           "validFor": null,
           "value": "Lead.Fax"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Lead.Grax_Restore__c"
         },
         {
           "active": true,
