@@ -57,6 +57,10 @@
                 <behavior>Readonly</behavior>
                 <field>Opportunity_GRAX_Revenue__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Grax_Restore__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
