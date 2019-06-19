@@ -479,6 +479,13 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "Grax_Restore",
+          "validFor": null,
+          "value": "Grax_Restore__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "Individual",
           "validFor": null,
           "value": "Individual"
