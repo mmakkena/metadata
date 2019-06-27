@@ -37972,13 +37972,6 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "runtime_appointmentbooking:resourceSlotTester"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
           "value": "runtime_appointmentbooking:suggestedResources"
         },
         {
@@ -38519,13 +38512,6 @@
           "label": null,
           "validFor": null,
           "value": "runtime_essential_checkout:manageSubscriptionPage"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "runtime_essential_checkout:mastercardDiscountLoading"
         },
         {
           "active": true,
@@ -94032,13 +94018,6 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "runtime_appointmentbooking:resourceSlotTester"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
           "value": "runtime_appointmentbooking:suggestedResources"
         },
         {
@@ -94579,13 +94558,6 @@
           "label": null,
           "validFor": null,
           "value": "runtime_essential_checkout:manageSubscriptionPage"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "runtime_essential_checkout:mastercardDiscountLoading"
         },
         {
           "active": true,
