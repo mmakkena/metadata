@@ -3085,6 +3085,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "FlowExecutionEventMetric"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "FlowInterview"
         },
         {
