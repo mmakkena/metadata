@@ -6214,6 +6214,26 @@
     },
     {
       "cascadeDelete": false,
+      "childSObject": "PermissionSetPortalDelegate",
+      "deprecatedAndHidden": false,
+      "field": "CreatedById",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": null,
+      "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": false,
+      "childSObject": "PermissionSetPortalDelegate",
+      "deprecatedAndHidden": false,
+      "field": "LastModifiedById",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": null,
+      "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": false,
       "childSObject": "PlatformAction",
       "deprecatedAndHidden": false,
       "field": "InvokedByUserId",
