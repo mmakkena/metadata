@@ -33,6 +33,16 @@
       "restrictedDelete": false
     },
     {
+      "cascadeDelete": true,
+      "childSObject": "PermissionSetPortalDelegate",
+      "deprecatedAndHidden": false,
+      "field": "PermissionSetId",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": null,
+      "restrictedDelete": false
+    },
+    {
       "cascadeDelete": false,
       "childSObject": "SessionPermSetActivation",
       "deprecatedAndHidden": false,
