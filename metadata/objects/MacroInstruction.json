@@ -762,14 +762,14 @@
           "defaultValue": false,
           "label": "Account Name",
           "validFor": null,
-          "value": "Field.Opportunity.AccountId"
+          "value": "Field.Account.Name.end"
         },
         {
           "active": true,
           "defaultValue": false,
           "label": "Account Name",
           "validFor": null,
-          "value": "Field.Account.Name.end"
+          "value": "Field.Opportunity.AccountId"
         },
         {
           "active": true,
