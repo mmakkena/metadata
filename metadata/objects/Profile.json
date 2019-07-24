@@ -23,16 +23,6 @@
       "restrictedDelete": false
     },
     {
-      "cascadeDelete": true,
-      "childSObject": "PermissionSetPortalDelegate",
-      "deprecatedAndHidden": false,
-      "field": "ProfileId",
-      "junctionIdListNames": [],
-      "junctionReferenceTo": [],
-      "relationshipName": null,
-      "restrictedDelete": false
-    },
-    {
       "cascadeDelete": false,
       "childSObject": "RecentlyViewed",
       "deprecatedAndHidden": false,
