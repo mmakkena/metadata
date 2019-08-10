@@ -56900,13 +56900,6 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
-          "value": "waveapps:clickableDatatable"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
           "value": "waveapps:clientSegmentation"
         },
         {
@@ -112961,13 +112954,6 @@
           "label": null,
           "validFor": null,
           "value": "wave:waveTemplate"
-        },
-        {
-          "active": true,
-          "defaultValue": false,
-          "label": null,
-          "validFor": null,
-          "value": "waveapps:clickableDatatable"
         },
         {
           "active": true,
