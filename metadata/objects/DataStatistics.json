@@ -1485,6 +1485,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "B2BCommercePkgOrdersOnceUE"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "B2BCommercePkgOrdersUE"
         },
         {
